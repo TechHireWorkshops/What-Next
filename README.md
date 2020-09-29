@@ -1,2 +1,2 @@
 # What-Next
-![what now](https://giphy.com/gifs/L6EoLS78pcBag)
+![what now](https://media.giphy.com/media/L6EoLS78pcBag/source.gif)
