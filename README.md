@@ -1,7 +1,7 @@
 # What Next?
 ![what now](https://media.giphy.com/media/L6EoLS78pcBag/source.gif)
 
-You've done an amazing amount of work in the last three months and gained the beginnings of a very usefull skill set.  Where do you go from here?
+You've done an amazing amount of work in the last three months and gained the beginnings of a very useful skill set.  Where do you go from here?
 
 
 ## Relax
@@ -98,3 +98,22 @@ There are a bunch of good software engineering podcasts, such as:
 - Software Engineering Radio
 - The Changelog
 - Junior Developer Toolbox
+
+## Build your resume
+### Freelance
+Freelance projects come in all difficulty levels and are usually much easier to get than office jobs.  Freelance projects will often force you to acquire new skills (creating new functionalities, integrating third-party apis, etc.) and can serve as real-world projects to show off on your portfolio and resume.
+
+#### Find freelance projects
+- [DevTeam](https://www.devteam.space/)
+- [People per hour](peopleperhour.com)
+- [Upwork](https://www.upwork.com/)
+- [Fiverr](https://www.fiverr.com/)
+
+
+### Hackathons
+Hackathons will also force you to push yourself to complete projects you might not have picked otherwise.  They also offer the opportunity to work with more-experienced coders that can share their experience with you.  Finally, hackathons can also give you concrete accomplishments to put on your resume and experience to talk about in interviews.
+
+### Find Hackathons
+- [DevPost](https://devpost.com/hackathons)
+- [Hackathon.io](https://www.hackathon.io/events)
+- [Hackalist](https://www.hackalist.org/)
