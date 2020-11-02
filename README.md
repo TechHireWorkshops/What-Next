@@ -1,7 +1,7 @@
 # What Next?
 ![what now](https://media.giphy.com/media/L6EoLS78pcBag/source.gif)
 
-You've done an amazing amount of work in the last three months and gained the beginnings of a very useful skill set.  Where do you go from here?
+You've done an amazing amount of work in the last few months and gained the beginnings of a very useful skill set.  Where do you go from here?
 
 
 ## Relax
